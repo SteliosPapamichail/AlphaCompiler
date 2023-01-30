@@ -1,0 +1,21 @@
+x=6;
+function g(){
+    local d = 5;
+    function h(){
+        return g();
+    }
+    x = d + nn;
+    local y = ::x;
+    local print;
+    local g;
+    test_undefined = -5;
+    local tst = ::t;
+}
+
+function g() {}
+g = 5;
+x = g();
+
+function t1(a,b,c) {
+    a = 5;
+}

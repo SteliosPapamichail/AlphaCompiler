@@ -1,0 +1,17 @@
+if(x > 1) print;
+
+if(y==1) print; else print;
+for(;;) sin();
+for(i=0; i <= x; i++) {
+    local j = 10;
+    while(j > 5) {
+        j--;
+    }
+}
+
+t = [{x:a},{y:b}] ; 
+t["x"]=a;
+t["y"]=b; 
+
+k = [];
+w = [{1+2:5+5}, {z:z1}, {1>5:1<2}];

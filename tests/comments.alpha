@@ -1,0 +1,90 @@
+"first string"
+
+"this is a test of A"
+
+5.1
+
+/* sxolia apla */
+/*
+/*geia*/ */
+
+"test 1tab\t2tab\t\tnewline\nkomple"
+
+
+"testarw to string\n 11 \t mpla"
+"eswteriko tou string \ttwra pathsa tab twra newline\nboom!"
+
+"hi @!$!%"
+
+// ids
+x
+y
+z
+
+// keywords
+if else while for function
+return break continue
+and not or local true false nil
+
+// ops
+= 
+==
+!=
+++--
++ - / * % ++ -- < > <= >=
+
+// punc
+. [] {} () ; , : :: ..
+
+some_new_id
+
+// numbers
+4020
+4613
+
+// real nums
+3.14
+2.07
+7.2891580
+5891.1591
+
+"test with invalid esc \l"
+
+// strings
+"hello world string"
+//"hmm what could
+//this cause?!$!%!%!%!%!%!../.alknaga"
+"string with \t\n"
+"string with \\ and nested \" quotes"
+
+// sxolia grammhs
+
+/* emfoleymena /* sxolia */ twra */
+
+//" string with no end test
+
+/* sxolia "STRING" mesa sto sxolio */
+/* ena star (* /) kai mia payla apostash kleinw twra */
+/* sxolia me
+   enter */
+
+// "STRING"
+
+meta_apo_sxolio_grammhs
+
+/* mperdemena /* emfoleymena */ sxolia /* ME */ ap ola */
+
+
+// line comment with multi line comment /**/ /*/  */  */
+
+/* PREPARE YOURSELVES FOR THE GREATES COMMENT THAT EVER WAS 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor at risus viverra adipiscing at in. Eu volutpat odio facilisis mauris. Vitae turpis massa sed elementum. Dolor sed viverra ipsum nunc aliquet. Nec ultrices dui sapien eget mi proin sed libero enim. Netus et malesuada fames ac turpis egestas maecenas pharetra. Convallis posuere morbi leo urna molestie at elementum eu. Augue mauris augue neque gravida in fermentum. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Nunc eget lorem dolor sed viverra ipsum.
+
+Orci nulla pellentesque dignissim enim sit. Feugiat vivamus at augue eget arcu. Malesuada fames ac turpis egestas sed. Et tortor consequat id porta nibh. Vitae turpis massa sed elementum tempus egestas sed sed risus. Sed faucibus turpis in eu mi bibendum neque egestas congue. Sapien eget mi proin sed libero enim sed faucibus. Amet est placerat in egestas erat imperdiet sed. Non tellus orci ac auctor. Mattis pellentesque id nibh tortor. Sit amet massa vitae tortor condimentum lacinia quis vel. In fermentum et sollicitudin ac. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Tempor id eu nisl nunc mi ipsum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Tellus mauris a diam maecenas.
+
+Urna duis convallis convallis tellus id interdum velit. Non quam lacus suspendisse faucibus interdum posuere. Tempus imperdiet nulla malesuada pellentesque elit eget gravida. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Pellentesque habitant morbi tristique senectus. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Mollis nunc sed id semper risus in hendrerit. Sed ullamcorper morbi tincidunt ornare massa eget. Blandit libero volutpat sed cras ornare arcu. Vestibulum mattis ullamcorper velit sed. Nibh venenatis cras sed felis eget. In fermentum posuere urna nec. Sit amet purus gravida quis blandit turpis cursus. Erat velit scelerisque in dictum. Mattis pellentesque id nibh tortor id. Nam aliquam sem et tortor consequat id porta nibh. Ut tortor pretium viverra suspendisse potenti nullam ac. Platea dictumst vestibulum rhoncus est pellentesque. Varius duis at consectetur lorem donec massa sapien.
+
+Lectus quam id leo in vitae turpis massa. Enim tortor at auctor urna nunc id cursus. Ultricies mi quis hendrerit dolor magna eget est lorem. In vitae turpis massa sed elementum. Arcu non sodales neque sodales ut. Tincidunt eget nullam non nisi. Ut tristique et egestas quis ipsum suspendisse. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Integer quis auctor elit sed. Elit scelerisque mauris pellentesque pulvinar pellentesque. Duis ultricies lacus sed turpis tincidunt id aliquet. Urna molestie at elementum eu facilisis. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Sapien et ligula ullamcorper malesuada proin libero nunc. Ipsum faucibus vitae aliquet nec ullamcorper sit.
+
+Phasellus faucibus scelerisque eleifend donec pretium vulputate. A arcu cursus vitae congue mauris rhoncus aenean vel. Nec feugiat in fermentum posuere. Urna molestie at elementum eu facilisis sed. Bibendum at varius vel pharetra vel. Morbi tristique senectus et netus et malesuada fames. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Scelerisque varius morbi enim nunc faucibus. Varius quam quisque id diam vel quam elementum pulvinar. Odio euismod lacinia at quis risus sed vulputate. At tempor commodo ullamcorper a lacus vestibulum sed arcu non. Dui sapien eget mi proin sed libero enim. Id aliquet risus feugiat in ante metus dictum at tempor.
+*/

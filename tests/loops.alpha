@@ -1,0 +1,50 @@
+break;
+while(o>1) break;
+while(r != 1) {
+    break;
+}
+continue;
+while(5) continue;
+while(r!=2) {
+    continue;
+    break;
+}
+while(x) {
+    {
+        continue;
+        break;
+    }
+}
+
+for(i=0; i < 1; i++) break;
+for(i=0; i < 1; i++) continue;
+
+for(i=0; i < 1; i++) {
+    break;
+    continue;
+}
+
+for(i=0; i < 1; i++) {
+    {
+        break;
+        continue;
+    }
+}
+
+{
+    {
+        {
+            break;
+            continue;
+        }
+    }
+}
+
+while(z != 0) {
+    while(y != 1) {
+        break;
+        continue;
+    }
+    break;
+    continue;
+}

@@ -1,0 +1,32 @@
+x = input();
+g = 12.4;
+print(typeof(x));
+
+{
+    local j=0;
+    function ooo() {
+        j = 1;
+    }
+}
+
+function (a,b){
+    local d;
+}
+
+function (n,m,n) {}
+
+function zz(print) {
+    a = b;
+}
+
+function tttt(t,w,e,t,o,p) {}
+
+function foo(x,y){
+    print(x+y);
+    local p = y;
+    ::print(p);
+    function h(a){
+        return a+x+y;
+    }
+    y=h(::x);
+}
