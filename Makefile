@@ -1,6 +1,3 @@
-# tested on lotos@csd.uoc.gr
-
-.PHONY: avm
 all: flex bison tcode_gen comp
 
 bison: ./parser/parser.y
@@ -18,7 +15,7 @@ comp: ./lexer/scanner.c ./lexer/lexer.h ./parser/parser.h settings.h ./parser/pa
 	g++ -std=c++11 -c -o ./parser/parser.o ./parser/parser.c
 	g++ -std=c++11 -c -o main.o main.cpp
 	g++ -std=c++11 -c -o ./utils/utils.o utils/parser-utils.cpp
-	g++ -o exec main.o ./lexer/scanner.o ./parser/parser.o ./SymTab/symtab.o ./utils/utils.o ./target_code/tc_gen.o
+	g++ -o alang main.o ./lexer/scanner.o ./parser/parser.o ./SymTab/symtab.o ./utils/utils.o ./target_code/tc_gen.o
 
 clean:
-	rm -f ./lexer/scanner.c ./parser/parser.c ./parser/parser.h ./parser/parser.output ./lexer/scanner.o ./parser/parser.o main.o ./SymTab/symtab.o ./utils/utils.o ./target_code/tc_gen.o output.abc exec
+	rm -f ./lexer/scanner.c ./parser/parser.c ./parser/parser.h ./parser/parser.output ./lexer/scanner.o ./parser/parser.o main.o ./SymTab/symtab.o ./utils/utils.o ./target_code/tc_gen.o output.abc alang
